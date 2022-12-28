@@ -1,0 +1,10 @@
+name,latitude,longitude,bikes,free,timestamp,extra.uid,extra.renting,extra.returning,extra.last_updated,extra.has_ebikes,extra.ebikes,extra.payment,extra.payment-terminal,extra.slots
+Reston Town Center Metro North,38.953691,-77.359717,4,15,2022-12-28 18:31:55.216748,e823318f-8406-4230-8072-1667f5de78d4,1,1,1672252282,True,0,"['key', 'creditcard']",True,19
+Becontree Ln & Goldenrain Ct,38.966848,-77.329282,8,4,2022-12-28 18:31:55.216762,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,1,1,1672252294,True,0,"['key', 'creditcard']",True,12
+Golf Course Sq and Golf Course Dr,38.944013,-77.353552,6,6,2022-12-28 18:31:55.216767,13c42471-96ab-441d-9a4c-bc57f7af6f9b,1,1,1672252199,True,0,"['key', 'creditcard']",True,12
+Campus Commons,38.944707,-77.335425,7,4,2022-12-28 18:31:55.216771,3c6a1bf0-3aac-4406-990d-966cc8edca52,1,1,1672252240,True,0,"['key', 'creditcard']",True,11
+Baron Cameron Ave & North Hampton Ave,38.966344,-77.359341,5,7,2022-12-28 18:31:55.216775,8aa43882-2e93-41fb-b55d-a6a15b5b446b,1,1,1672252262,True,0,"['key', 'creditcard']",True,12
+Eads St & 15th St S,38.858971,-77.05323,9,6,2022-12-28 18:31:55.216779,1,1,1,1672232439,True,0,"['creditcard', 'key']",True,15
+Crystal Dr & 20th St S,38.856425,-77.049232,13,4,2022-12-28 18:31:55.216783,3,1,1,1672252086,True,1,"['creditcard', 'key']",True,17
+Crystal Dr & 15th St S,38.861056,-77.049417,6,9,2022-12-28 18:31:55.216787,4,1,1,1672247897,True,1,"['creditcard', 'key']",True,16
+Aurora Hills Cmty Ctr / 18th St & S Hayes St,38.857866,-77.05949,7,5,2022-12-28 18:31:55.216791,5,1,1,1672236120,True,1,"['creditcard', 'key']",True,12
