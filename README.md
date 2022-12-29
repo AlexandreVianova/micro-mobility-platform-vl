@@ -52,4 +52,18 @@ You can verify that the ingestion is actually inserting rows in the postgres dat
 
 ## Export hourly-aggregations
 
+Exporting hourly aggregations is possible from the Rest API, already deployed inside the ingestion container.
+
+API documentation should be available at http://0.0.0.0:8000/docs if docker-compose is still up.
+
+Exports can be performed using two ways:
+1. Go to http://0.0.0.0:8000/docs in your web browser and use the "try it out"
+   feature to choose the export mode of your choice
+2. Execute a **GET** request to the following URIs :
+   - http://0.0.0.0:8000/analyze/last_24h_aggs?mode=REST_API
+   - http://0.0.0.0:8000/analyze/last_24h_aggs?mode=CSV
+   - http://0.0.0.0:8000/analyze/last_24h_aggs?mode=JSON
+
+**Tip**: you can directly COPY/PASTE these URIs in your browser navigation bar.
+
 Have fun!
